@@ -1,0 +1,92 @@
+{
+	"baseUrl": "yoururl",
+	"username": "yourusername",
+	"password": "yourpassword",
+	"mapping": {
+		"periodCell": "F2",
+		"ouCell": "D2",
+		"ouScheme": "code",
+		"deMapping": {
+			"B4": {
+				"de": "x40rRRaFGhV",
+				"coc": "gIwyFxHJDRA"
+			},
+			"B5": {
+				"de": "GNCyqvKbwUh",
+				"coc": "gIwyFxHJDRA"
+			},
+			"B6": {
+				"de": "VjFYUuFSqMh",
+				"coc": "gIwyFxHJDRA"
+			},
+			"B7": {
+				"de": "vpkDr9RFppM",
+				"coc": "gIwyFxHJDRA"
+			},
+			"C4": {
+				"de": "x40rRRaFGhV",
+				"coc": "kijFk01jA25"
+			},
+			"C5": {
+				"de": "GNCyqvKbwUh",
+				"coc": "kijFk01jA25"
+			},
+			"C6": {
+				"de": "VjFYUuFSqMh",
+				"coc": "kijFk01jA25"
+			},
+			"C7": {
+				"de": "vpkDr9RFppM",
+				"coc": "kijFk01jA25"
+			},
+			"D4": {
+				"de": "x40rRRaFGhV",
+				"coc": "fL7Dn1VqU9q"
+			},
+			"D5": {
+				"de": "GNCyqvKbwUh",
+				"coc": "fL7Dn1VqU9q"
+			},
+			"D6": {
+				"de": "VjFYUuFSqMh",
+				"coc": "fL7Dn1VqU9q"
+			},
+			"D7": {
+				"de": "vpkDr9RFppM",
+				"coc": "fL7Dn1VqU9q"
+			},
+			"E4": {
+				"de": "x40rRRaFGhV",
+				"coc": "uiUKssR0a5F"
+			},
+			"E5": {
+				"de": "GNCyqvKbwUh",
+				"coc": "uiUKssR0a5F"
+			},
+			"E6": {
+				"de": "VjFYUuFSqMh",
+				"coc": "uiUKssR0a5F"
+			},
+			"E7": {
+				"de": "vpkDr9RFppM",
+				"coc": "uiUKssR0a5F"
+			},
+			"F4": {
+				"de": "x40rRRaFGhV",
+				"coc": "jEklmU0Jrba"
+			},
+			"F5": {
+				"de": "GNCyqvKbwUh",
+				"coc": "jEklmU0Jrba"
+			},
+			"F6": {
+				"de": "VjFYUuFSqMh",
+				"coc": "jEklmU0Jrba"
+			},
+			"F7": {
+				"de": "vpkDr9RFppM",
+				"coc": "jEklmU0Jrba"
+			}
+		}
+	}
+}
